@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Yauhenia Pashkovich](https://up.htmlacademy.ru/htmlcss/39/user/1575631).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
 
 ---
 
