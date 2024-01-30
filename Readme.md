@@ -2,6 +2,7 @@
 
 * Студент: [Yauhenia Pashkovich](https://up.htmlacademy.ru/htmlcss/39/user/1575631).
 * Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
+* Сайт: [Проект Sedona](https://yauhenia13.github.io/1575631-sedona-39/)
 
 ---
 
